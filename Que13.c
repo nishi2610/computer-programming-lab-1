@@ -24,6 +24,7 @@ else{
             a[i+1] = a[i];
         a[index-1] = new;
         size++;
+        printf("The new array is:\n");
         for(int i=0; i<size; i++)
             printf("%d  ",a[i]);}
     }
