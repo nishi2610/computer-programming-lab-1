@@ -18,7 +18,7 @@ else{
         a[i+1]=a[i];
     a[0]=new;
     size++;
-    printf("the final array is:\n")
+    printf("the final array is:\n");
     for(int i=0; i<size;i++)
         printf("%d  ",a[i]);}
 
